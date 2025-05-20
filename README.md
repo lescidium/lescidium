@@ -20,7 +20,7 @@ During this time I became familiar with Python as a scripting language and devel
 ## 📫 Contact
 
 - GitHub: [@lescidium](https://github.com/lescidium)
-- LinkedIn: [linkedin.com/in/lescidium](https://www.linkedin.com/in/lescidium)
+- LinkedIn: [linkedin.com/in/kenny-haak](https://www.linkedin.com/in/kenny-haak)
 - Email: [kenny_haak@reazon.jp](mailto:kenny_haak@reazon.jp)
 
 ---
