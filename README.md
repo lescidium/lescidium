@@ -21,7 +21,7 @@ During this time I became familiar with Python as a scripting language and devel
 
 - GitHub: [@lescidium](https://github.com/lescidium)
 - LinkedIn: [linkedin.com/in/kenny-haak](https://www.linkedin.com/in/kenny-haak)
-- Email: [kenny_haak@reazon.jp](mailto:kenny_haak@reazon.jp)
+- Email: [kenny_haak@live.com](mailto:kenny_haak@live.com)
 
 ---
 
