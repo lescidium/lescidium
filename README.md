@@ -25,4 +25,4 @@ During this time I became familiar with Python as a scripting language and devel
 
 ---
 
-> “Nothing feels better than the right word at the right time.”
+> “I feel like rather than something clever, it's better to write with a lot of mistakes. That way you at least know it isn't AI slop.”
