@@ -1,11 +1,18 @@
 # Hi, I'm Kenny 👋
 
-I'm a software engineer working on the development of NLP solutions to societal problems and the deployment of various AI models, such as ASR models and LLMs.
-While my formal education was in physics, I have chosen to pursue a career in NLP AI due to both a personal passion for language and a desire to directly impact society.
+I'm a scientist and engineer working on various projects inside the fields AI, robotics, software, and cloud infrastructure.
+While my formal education was in physics, I chose to pursue a career in AI so that I could contribute practical value to society. 
 The subject of my PhD thesis was the discovery of new radioactive isotopes, which involved complex statistical analysis of vast data sets.
 During this time I became familiar with Python as a scripting language and developed a very comfortable fluency which has eased the transition from physics to computer science.
 
-- 🔭 Currently building a real-time audio-to-language interface
+My interest in foreign language and culture has brought me to Japan on several occasions, first as an English teacher and now as an AI engineer.
+I enjoy working on the development of NLP solutions to societal problems and the deployment of various AI models, such as ASR models and LLMs.
+My main responsibilities at my current position involve the production and maintenance of a live transcription-translation application.
+I have also performed research on voice activity detection (VAD) algorithms.
+My secondary responsibility is performing system identification for a physical robot arm.
+This project allows me to make use of both my physics background and my software skills.
+
+- 🔭 Currently building a real-time transcription-translation web application
 - 🧠 Former nuclear physicist turned software and AI engineer
 - 🛠️ Working with Python, FastAPI, React, Docker, Terraform, and AWS
 - 🌍 Based in Tokyo, near the robotics hub in Akihabara
@@ -25,4 +32,4 @@ During this time I became familiar with Python as a scripting language and devel
 
 ---
 
-> “I feel like rather than something clever, it's better to write with a lot of mistakes. That way you at least know it isn't AI slop.”
+> “I feel like rather than something clever, it's better to write with a lot of mistakes. That way you at least know it isn't AI slop. What used to be a mark of shame across the world in chat rooms and online forums, has now become a badge of honor! Yes, let's mispell misspell!”
