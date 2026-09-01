@@ -1,6 +1,6 @@
 # Hi, I'm Kenny 👋
 
-AI Engineer based in Tokyo, Japan. I build production ML systems, cloud infrastructure, and developer tooling.
+Robotics Engineer based in Tokyo, Japan. I build production ML systems, cloud infrastructure, and developer tooling.
 
 Background in physics (PhD, Michigan State University) with a focus on statistical analysis of large experimental datasets. Now working across AI, robotics, and cloud infrastructure on AWS.
 
